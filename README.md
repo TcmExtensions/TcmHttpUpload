@@ -69,3 +69,5 @@ These tend to build up over time and cause the HTTP responses from the !HttpUplo
 
 Note that TcmHttpUpload currently does not support the .NET in-process deployer model.
 I prefer to run the default out-of-process deployer (cd\_deployer as a service) as it seems to be more stable over long periods of time.
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/cb439853d159fe1de33e3197f1caf6f7 "githalytics.com")](http://githalytics.com/github.com/TcmExtensions)
